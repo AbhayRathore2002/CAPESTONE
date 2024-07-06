@@ -36,4 +36,4 @@ Follow the setup instructions in the README file to install and run the recommen
 Utilize the system to generate personalized product recommendations for customers based on their unique preferences and browsing habits.
 
 ## Author Information
- Abhay Singh Rathore is a Junior Data Scientist specializing in Predictive Modeling and Machine Learning. For inquiries or collaboration opportunities, please contact [abhayrathore457@gmail.com].
+ Abhay Singh Rathore [abhayrathore457@gmail.com] is a Junior Data Scientist specializing in Predictive Modeling and Machine Learning. For inquiries or collaboration opportunities, please contact.
