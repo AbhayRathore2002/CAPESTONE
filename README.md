@@ -1,7 +1,7 @@
 # Advanced E-Commerce Recommender System: Boosting Customer Interaction and Sales
 
 ## Author Information
- Abhay Singh Rathore is a Data Scientist specializing in Predictive Modeling and Machine Learning. For inquiries or collaboration opportunities, please contact [abhay457].
+ Abhay Singh Rathore is a Junior Data Scientist specializing in Predictive Modeling and Machine Learning. For inquiries or collaboration opportunities, please contact [abhayrathore457@gmail.com].
 
 ## Project Overview
  This initiative focuses on creating a state-of-the-art recommender system tailored to enhance the e-commerce shopping experience through personalized product suggestions.
@@ -37,3 +37,6 @@ Gain insights into system performance and identify areas for improvement.
 Clone or download the project repository from GitHub.
 Follow the setup instructions in the README file to install and run the recommender system.
 Utilize the system to generate personalized product recommendations for customers based on their unique preferences and browsing habits.
+
+## Author Information
+ Abhay Singh Rathore is a Junior Data Scientist specializing in Predictive Modeling and Machine Learning. For inquiries or collaboration opportunities, please contact [abhayrathore457@gmail.com].
